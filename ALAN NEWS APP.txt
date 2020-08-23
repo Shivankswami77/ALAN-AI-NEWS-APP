@@ -1,0 +1,7 @@
+******ALAN NEWS APP WITH VOICE ASSISSTANCE**********
+
+1. DEPENDENCIES @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers
+useEffect is something that happens when our code starts .. it is similar to component did mount
+
+
+API USED IS NEWS API - https://newsapi.org/
